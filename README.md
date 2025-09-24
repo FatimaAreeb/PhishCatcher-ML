@@ -20,3 +20,11 @@ cd PhishCatcher-ML
 pip install -r requirements.txt
 python train.py
 
+📈 Results
+
+Achieved ~95% accuracy using Random Forest
+
+Algorithms tried: Logistic Regression, SVM, Random Forest
+
+
+
